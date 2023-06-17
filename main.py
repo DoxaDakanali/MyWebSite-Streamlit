@@ -76,7 +76,7 @@ with st.container():
             - P.E. games for the schoolyard or gym.
             - Yoga for kids.
             - Dance for kids.
-            "
+            
             If this sounds interesting to you, consider subscribing and turning on the notifications, so you don’t miss any content.
             """
         )
@@ -128,7 +128,9 @@ with st.container():
             """
         )
         st.markdown("[Watch Video...](https://www.youtube.com/watch?v=zzhkdbkbpLM)")
-        st.markdown("[Watch Video...](https://www.youtube.com/watch?v=xQRylT2ndyw)")
+
+        st.write("######")
+        st.write("######")
         st.write("######")
         st.write("######")
         st.write("######")
